@@ -42,4 +42,35 @@ k(T) = \frac{1}{0.0452 + 2.46\times10^{-4}T + 5.47\times10^9 e^{-16350/T}/T^2}
 - Radial temperature profile (fuel → coolant)
 - Key temperature points (center, fuel surface, clad, boundary)
 
-Generated file:
+Generated file: 
+## 📊 Results & Outputs
+
+### 🔥 Steady-State Temperature Field
+![Steady State](fuel_pin_2d_full_temperature.png)
+
+---
+
+### ⏱️ Transient Temperature Evolution (Snapshots)
+![Snapshots](fuel_pin_transient_snapshots.png)
+
+---
+
+### 📈 Temperature vs Time
+![Time Series](fuel_pin_transient_timeseries.png)
+
+---
+
+### 🔄 Radial Temperature Profile
+![Radial Profile](fuel_pin_transient_radial.png)
+
+---
+
+### 🎞️ Transient Animation (GIF)
+![Transient GIF](fuel_pin_transient.gif)
+
+---
+
+### 🎬 MP4 Animation Output
+(output video)
+
+---
