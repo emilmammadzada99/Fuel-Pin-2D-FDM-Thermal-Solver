@@ -72,5 +72,5 @@ Generated file:
 
 ### 🎬 MP4 Animation Output
 (output video)
-
+![Output GIF](output.gif)
 ---
